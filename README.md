@@ -16,7 +16,7 @@ Aqui você encontrará informações detalhadas sobre minha trajetória profissi
 
 
 ## Contato
-- **E-mail**: [contato@luislobo.com.br](mailto:contato@luislobo.com.br)
+- **E-mail**: [cassiano25.ubc@gmail.com](cassiano25.ubc@gmail.com)
 - **Telefone**: [(31) 9 7138-0857]()
 - **linkedin**:[linkedin](www.linkedin.com/in/cassiano-maia-743160208)
 
