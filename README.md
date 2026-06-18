@@ -14,7 +14,6 @@ Aqui você encontrará informações detalhadas sobre minha trajetória profissi
 
 - **Curriculo**: [Veja meu currículo aqui](file:///C:/Users/HOME/Downloads/Curr%C3%ADculo%20Cassiano%20Maia.pdf)
 
-
 ## Contato
 - **E-mail**: [cassiano25.ubc@gmail.com](cassiano25.ubc@gmail.com)
 - **Telefone**: [(31) 9 7138-0857]()
