@@ -12,7 +12,7 @@ Atualmente no 7º período da faculdade, sou um desenvolvedor em formação foca
 ## Currículo
 Aqui você encontrará informações detalhadas sobre minha trajetória profissional, habilidades e experiências.
 
-[Veja meu currículo aqui](file:///C:/Users/HOME/Downloads/Curr%C3%ADculo%20Cassiano%20Maia.pdf)
+- **Curriculo**:[Veja meu currículo aqui](file:///C:/Users/HOME/Downloads/Curr%C3%ADculo%20Cassiano%20Maia.pdf)
 
 
 ## Contato
